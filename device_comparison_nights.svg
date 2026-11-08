@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780" font-family="Aptos, 'Aptos Display', 'Segoe UI', Calibri, sans-serif">
+<rect width="1200" height="780" rx="12" fill="#fcfcfb"/>
+<line x1="130" x2="160" y1="48" y2="48" stroke="#2a78d6" stroke-width="4"/><circle cx="145" cy="48" r="9" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="174" y="58" font-size="30" fill="#1c1c1b">Sleep Analyzer · AHI</text>
+<line x1="550" x2="580" y1="48" y2="48" stroke="#eb6834" stroke-width="4"/><circle cx="565" cy="48" r="9" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"/>
+<text x="594" y="58" font-size="30" fill="#1c1c1b">O2Ring · ODI3</text>
+<path d="M145.0 95.0 l9 9 l-9 9 l-9 -9z" fill="#1baf7a" stroke="#0b0b0b" stroke-width="2"/>
+<text x="174" y="114" font-size="30" fill="#1c1c1b">Somfit · pAHI</text>
+<rect x="556.0" y="95.0" width="18" height="18" fill="#eda100" stroke="#0b0b0b" stroke-width="2"/>
+<text x="594" y="114" font-size="30" fill="#1c1c1b">Home PSG · AHI</text>
+<line x1="130" x2="1150" y1="610.0" y2="610.0" stroke="#e7e6e2" stroke-width="2"/>
+<text x="116" y="620.0" font-size="28" fill="#1c1c1b" text-anchor="end">0</text>
+<line x1="130" x2="1150" y1="500.0" y2="500.0" stroke="#e7e6e2" stroke-width="2"/>
+<text x="116" y="510.0" font-size="28" fill="#1c1c1b" text-anchor="end">10</text>
+<line x1="130" x2="1150" y1="390.0" y2="390.0" stroke="#e7e6e2" stroke-width="2"/>
+<text x="116" y="400.0" font-size="28" fill="#1c1c1b" text-anchor="end">20</text>
+<line x1="130" x2="1150" y1="280.0" y2="280.0" stroke="#e7e6e2" stroke-width="2"/>
+<text x="116" y="290.0" font-size="28" fill="#1c1c1b" text-anchor="end">30</text>
+<line x1="130" x2="1150" y1="170.0" y2="170.0" stroke="#e7e6e2" stroke-width="2"/>
+<text x="116" y="180.0" font-size="28" fill="#1c1c1b" text-anchor="end">40</text>
+<text transform="translate(34 390.0) rotate(-90)" font-size="30" fill="#1c1c1b" text-anchor="middle">Events per hour</text>
+<text x="169.2" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">1</text>
+<text x="247.7" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">2</text>
+<text x="326.2" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">3</text>
+<text x="404.6" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">4</text>
+<text x="483.1" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">5</text>
+<text x="561.5" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">6</text>
+<text x="640.0" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">7</text>
+<text x="718.5" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">8</text>
+<text x="796.9" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">9</text>
+<text x="875.4" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">10</text>
+<text x="953.8" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">11</text>
+<text x="1032.3" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">12</text>
+<text x="1110.8" y="654" font-size="28" fill="#1c1c1b" text-anchor="middle">13</text>
+<text x="640.0" y="706" font-size="30" fill="#1c1c1b" text-anchor="middle">Night</text>
+<rect x="466.1" y="432.4" width="34" height="34" fill="#eda100" stroke="#0b0b0b" stroke-width="2"/>
+<text x="483.1" y="503.4" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="middle">14.6</text>
+<path d="M169.2 462.3 l19 19 l-19 19 l-19 -19z" fill="#1baf7a" stroke="#0b0b0b" stroke-width="2"/>
+<text x="199.2" y="491.3" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="start">11.7</text>
+<path d="M640.0 460.1 l19 19 l-19 19 l-19 -19z" fill="#1baf7a" stroke="#0b0b0b" stroke-width="2"/>
+<text x="610.0" y="489.1" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="end">11.9</text>
+<path d="M796.9 368.8 l19 19 l-19 19 l-19 -19z" fill="#1baf7a" stroke="#0b0b0b" stroke-width="2"/>
+<text x="796.9" y="361.8" font-size="30" font-weight="700" fill="#0b0b0b" text-anchor="middle">20.2</text>
+<line x1="169.2" y1="490.4" x2="247.7" y2="571.2" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="247.7" y1="571.2" x2="326.2" y2="423.6" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="326.2" y1="423.6" x2="404.6" y2="445.2" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="404.6" y1="445.2" x2="483.1" y2="433.0" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="483.1" y1="433.0" x2="561.5" y2="231.2" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="561.5" y1="231.2" x2="640.0" y2="308.5" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="640.0" y1="308.5" x2="718.5" y2="569.5" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="718.5" y1="569.5" x2="796.9" y2="424.4" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="796.9" y1="424.4" x2="875.4" y2="462.1" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="875.4" y1="462.1" x2="953.8" y2="418.1" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="953.8" y1="418.1" x2="1032.3" y2="389.1" stroke="#2a78d6" stroke-width="4.5" stroke-linecap="round"/>
+<circle cx="169.2" cy="490.4" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 1 · Sleep Analyzer AHI: 10.87</title></circle>
+<circle cx="247.7" cy="571.2" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 2 · Sleep Analyzer AHI: 3.53</title></circle>
+<circle cx="326.2" cy="423.6" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 3 · Sleep Analyzer AHI: 16.95</title></circle>
+<circle cx="404.6" cy="445.2" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 4 · Sleep Analyzer AHI: 14.98</title></circle>
+<circle cx="483.1" cy="433.0" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 5 · Sleep Analyzer AHI: 16.09</title></circle>
+<circle cx="561.5" cy="231.2" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 6 · Sleep Analyzer AHI: 34.44</title></circle>
+<circle cx="640.0" cy="308.5" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 7 · Sleep Analyzer AHI: 27.41</title></circle>
+<circle cx="718.5" cy="569.5" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 8 · Sleep Analyzer AHI: 3.68</title></circle>
+<circle cx="796.9" cy="424.4" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 9 · Sleep Analyzer AHI: 16.87</title></circle>
+<circle cx="875.4" cy="462.1" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 10 · Sleep Analyzer AHI: 13.45</title></circle>
+<circle cx="953.8" cy="418.1" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 11 · Sleep Analyzer AHI: 17.45</title></circle>
+<circle cx="1032.3" cy="389.1" r="10" fill="#2a78d6" stroke="#fcfcfb" stroke-width="3"><title>Night 12 · Sleep Analyzer AHI: 20.08</title></circle>
+<line x1="169.2" y1="416.4" x2="247.7" y2="348.2" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="247.7" y1="348.2" x2="326.2" y2="354.8" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="326.2" y1="354.8" x2="404.6" y2="456.0" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="404.6" y1="456.0" x2="483.1" y2="445.0" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="483.1" y1="445.0" x2="640.0" y2="459.3" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round" stroke-dasharray="12 10"/>
+<line x1="640.0" y1="459.3" x2="796.9" y2="384.5" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round" stroke-dasharray="12 10"/>
+<line x1="796.9" y1="384.5" x2="875.4" y2="399.9" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="875.4" y1="399.9" x2="953.8" y2="375.7" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="953.8" y1="375.7" x2="1110.8" y2="369.1" stroke="#eb6834" stroke-width="4.5" stroke-linecap="round" stroke-dasharray="12 10"/>
+<circle cx="169.2" cy="416.4" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 1 · O2Ring ODI3: 17.6</title></circle>
+<circle cx="247.7" cy="348.2" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 2 · O2Ring ODI3: 23.8</title></circle>
+<circle cx="326.2" cy="354.8" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 3 · O2Ring ODI3: 23.2</title></circle>
+<circle cx="404.6" cy="456.0" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 4 · O2Ring ODI3: 14</title></circle>
+<circle cx="483.1" cy="445.0" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 5 · O2Ring ODI3: 15</title></circle>
+<circle cx="640.0" cy="459.3" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 7 · O2Ring ODI3: 13.7</title></circle>
+<circle cx="796.9" cy="384.5" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 9 · O2Ring ODI3: 20.5</title></circle>
+<circle cx="875.4" cy="399.9" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 10 · O2Ring ODI3: 19.1</title></circle>
+<circle cx="953.8" cy="375.7" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 11 · O2Ring ODI3: 21.3</title></circle>
+<circle cx="1110.8" cy="369.1" r="10" fill="#eb6834" stroke="#fcfcfb" stroke-width="3"><title>Night 13 · O2Ring ODI3: 21.9</title></circle>
+</svg>
